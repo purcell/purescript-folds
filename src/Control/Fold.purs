@@ -41,6 +41,7 @@ module Control.Fold
   , notElem
   , distributed
   , prefilter
+  , groupBy
   ) where
 
 import Prelude
